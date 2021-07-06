@@ -1,0 +1,12 @@
+{
+    "id": "2380",
+    "parent_exercise_id": null,
+    "name": "Json",
+    "slug": "json__introduction",
+    "sequence_num": 0,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## JSON\\n\\n **JSON** *( Javascript Object Notation)* mai hum data ko keys and values ki form mai likhtain hain. Ismain keys string hoti hai aur values kisi bhi data type main ho sakti hain. Keys and values  colon ( : ) se separated hoti hain. Curly braces \u201d { }\u201d Json ko represent karta hain. Json files ka extension ( .json ) hota hain. **Uses of Json** 1. Json Jyada tar  server se web application or web application se server  ke beech data transmit karne ke kaam aata hain.\\n\\n2. Web services and APIs json format ka use  public data dene me use karte hain.\\n\\n3. Aur ye modern programming mai bhi use hota hai etc.\\n\\n **Characteristics of Json** 1. Json padhne aur likhne mai aasan hota hai.\\n\\n2. Json language ek independent language hai. Ye kisi par nirbhar nahi hain.\\n\\n3. Ye light weight and text-based interchange format hai.\\n\\n\\n **Json Syntax** 1. Data humesha keys and values ki form mai hona chahiye.\\n\\n2. Data humesha comma se separated hona chahiye.\\n\\n3. Data curly braces ({ }) mai hota hai.\\n\\n4. Data jo square brackets ( [ ] ) mai hota hai usse Array kehte hai.\\n\\n5. Hum kuch data ko python se json format mai kar sakte hai jaise(dict,list,tuple,string,int,float,True,False,None).\\n\\n *Jum hum python se data json mai convert karte hai toh unka Data type change ho jata hai. Jaise ki neeche diya gaya hai:-* | Python        | Json           | \\n| ------------- |:-------------:| -----:|\\n| Dict     | Object |\\n| List      | Array    |   \\n|Tuple | Array   |  \\n| Str     | String |\\n| int      | Number    |   \\n|True | true   |   \\n| False     | false | \\n|None | null   |      \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/json/introduction.md"
+}

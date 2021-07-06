@@ -1,0 +1,12 @@
+{
+    "id": "2353",
+    "parent_exercise_id": "2347",
+    "name": " Question 3",
+    "slug": "dictionary__Questions/question3",
+    "sequence_num": 7003,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Ek program likhiye jo ki dictionaries ki values ka sum print kare. ***Example :-*** `Input :- ` `Output :- ` \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/Questions/question3.md"
+}
